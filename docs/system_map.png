@@ -1,0 +1,26 @@
+                    ┌───────────────┐
+                    │   Start Page   │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌──────────────────┐
+                    │   Main Menu       │
+                    │ 1. Add Task       │
+                    │ 2. Delete Task    │
+                    │ 3. View Tasks     │
+                    └───────┬──────────┘
+              ┌─────────────┼──────────────┐
+              ▼             ▼              ▼
+      ┌──────────┐   ┌─────────────┐   ┌────────────┐
+      │ Add Task │   │ Delete Task  │   │ View Tasks │
+      └─────┬────┘   └──────┬──────┘   └──────┬─────┘
+            │               │                 │
+            ▼               ▼                 ▼
+   Adds a new node   Removes a node     Traverses linked list
+   (Linked List)      (Linked List)       (Linked List)
+
+                     └───────────┬───────────┘
+                                 ▼
+                          ┌───────────┐
+                          │   Exit    │
+                          └───────────┘
